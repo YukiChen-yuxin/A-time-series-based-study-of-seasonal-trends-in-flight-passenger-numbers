@@ -1,0 +1,2 @@
+# A-time-series-based-study-of-seasonal-trends-in-flight-passenger-numbers
+Based on the monthly flight passenger data of an international flight from January 1949 to December 1960, this study analyzed and plotted various trend graphs of the data, analyzed the seasonal fluctuations and patterns, and studied the establishment and application of seasonal autoregressive moving average models of different orders.
